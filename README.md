@@ -2,6 +2,8 @@
 
 A customizable tool to filter and validate Discord invites based on configured criteria. This tool also supports excluding specific invites using an `excluded.txt` file and dynamically tracks the progress of the checking process. (This was made to be used for filling tkns and expanding your snipe tkns)
 
+![Invite Checker](./invite.png)
+
 ---
 
 ## 🚀 Features
