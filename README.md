@@ -118,4 +118,3 @@ Saved 10 valid invites to "output.txt".
 
 ## Credits
 Developed by **GoldRbxia**
-Contributions are welcomed!
