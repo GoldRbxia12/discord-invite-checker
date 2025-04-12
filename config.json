@@ -1,0 +1,6 @@
+{
+  "minBoost": 0,
+  "minOnlineMembers": 51,
+  "minMembers": 150,
+  "maxMembers": 750000
+}
