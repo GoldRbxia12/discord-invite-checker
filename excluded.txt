@@ -1,6 +1,1 @@
-{
-  "minBoost": 2,             // Minimum server boosts
-  "minOnlineMembers": 50,    // Minimum number of online members
-  "minMembers": 150,         // Minimum total members
-  "maxMembers": 750000       // Maximum total members
-}
+
